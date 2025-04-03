@@ -28,7 +28,11 @@ Desktop password manager built with Python, Tkinter, and SQLite as a personal le
     8.  The resulting bytes are decoded back to a string (UTF-8) for display.
 
 
-]
+## Download (macOS executable)
+
+You can unzip the SecurePasswordManager.zip file and find the executable file. The executable is contained in the directory. 
+
+
 
 
 
