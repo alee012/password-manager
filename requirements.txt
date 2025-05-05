@@ -1,1 +1,1 @@
-cryptography>=40.0.0 # Use a recent version
+cryptography>=40.0.0 # Revert versions if there is problems
